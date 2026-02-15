@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-changes from new branch
-
 This is change from main branch
-=======
-changes from  feature branch
->>>>>>> b897cd0 (file2 added)
+This is change from feature branch
+
